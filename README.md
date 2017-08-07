@@ -1,5 +1,6 @@
  
 #about 
+i will update it by java, not c language ,c make it more difficult
 ##feature
 *graph algorithms 
 *c make it
